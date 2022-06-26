@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95770253799",
+    "project_id": "fir-issues-e71b6",
+    "storage_bucket": "fir-issues-e71b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95770253799:android:3978d8134b56180d0dc542",
+        "android_client_info": {
+          "package_name": "com.firebaseissues2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95770253799-v7ku6se04kuc1sbvld4qpp86195gu6qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebaseissues2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "95770253799-4orlsvl057jfnql4uqtlsitvujj0b9hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmii3EMkqbx-w_5TE--_2yIyNCZxqNmQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95770253799-4orlsvl057jfnql4uqtlsitvujj0b9hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
